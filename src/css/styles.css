@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+}
+header{
+    background: #666666;
+    text-align: center;
+}
+header input{
+    font-size: 20px;
+    margin:16px 0;
+}
+.logo{
+color: #fff;
+font-family:cursive;
+font-size: 36px;
+
+}
